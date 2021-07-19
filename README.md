@@ -6,7 +6,7 @@ Quote
 This is a simple application where users can create quotes and have those quotes voted on whether they are terrible or are inspirational
 
 ## Live site
-
+ https://marykamau2.github.io/Quotes/
 
 ## About
 
