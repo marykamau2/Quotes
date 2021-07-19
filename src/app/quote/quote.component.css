@@ -22,12 +22,12 @@
 }
 
 .hr{
-  background: white;
+  background:white;
 }
 
 .card-text{
   font-style: italic;
-  color: blue;
+  color: rgb(111, 111, 122);
   font-family: 'Gabriela', serif;
 }
 
