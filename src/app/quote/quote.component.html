@@ -17,7 +17,7 @@
                             <p class="card-message">{{quote.quoteMessage}}</p>
                               <app-quote-details id="description" *ngIf='quote.showDescription' [quote]= 'quote' (isComplete) = 'completegoal($event,i)'></app-quote-details>
 
-                            <p>Owner ~ <span class="card-text">{{quote.name}}</span></p>
+                            <p>Author ~ <span class="card-text">{{quote.name}}</span></p>
                             <p> Published {{ quote.completeDate|datepast}}</p>
                         </div>
                     </div>
