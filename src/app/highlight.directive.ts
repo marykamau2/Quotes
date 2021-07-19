@@ -1,16 +1,16 @@
-// import { Directive,ElementRef} from '@angular/core';
+import { Directive,ElementRef} from '@angular/core';
 
-// @Directive({
-//   selector: '[appHighlight]'
-// })
-// export class HighlightDirective {
+@Directive({
+  selector: '[appHighlight]'
+})
+export class HighlightDirective {
 
 
-//   constructor(private el: ElementRef) {
-//     el.nativeElement.style.backgroundColor = 'black'
-//     el.nativeElement.style.color = 'yellow'
-//     el.nativeElement.style.borderRadius = '20px'
+  constructor(private el: ElementRef) {
+    el.nativeElement.style.backgroundColor = 'black'
+    el.nativeElement.style.color = 'yellow'
+    el.nativeElement.style.borderRadius = '20px'
 
-//    }
+   }
 
-// }
+}
