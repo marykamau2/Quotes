@@ -8,7 +8,7 @@ This is a simple application where users can create quotes and have those quotes
 ## Live site
 
 
-## Quote
+## About
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.1.
 
